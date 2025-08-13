@@ -1,0 +1,2 @@
+# Per ora niente dipendenze esterne; lasciamo vuoto o aggiungi pytest per i test
+pytest==8.2.2
